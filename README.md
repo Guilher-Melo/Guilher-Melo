@@ -20,7 +20,6 @@ Olá, sou Guilherme de Souza Melo, um estudante de Sistemas de Informação apai
 ## 📫 Contato
 
 - LinkedIn: [Guilherme Melo](https://www.linkedin.com/in/guilherme-de-souza-melo-339305253)
-- E-mail: guilherme.melo10@yahoo.com.br
 
 Sinta-se à vontade para explorar meus repositórios e contribuir! Estou sempre aberto a colaborações e feedback. Vamos codificar juntos! 🚀
 
