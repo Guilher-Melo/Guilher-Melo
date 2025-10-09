@@ -1,15 +1,13 @@
 
 # Bem-vindo ao meu Perfil do GitHub! 👋
 
-Olá, sou Guilherme de Souza Melo, um estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprimorando minhas habilidades em diversas áreas, desde o desenvolvimento web com JavaScript, HTML, CSS, Java e React até a exploração de tecnologias como Python, AWS e Spark.
+Olá, sou Guilherme de Souza Melo, um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprimorando minhas habilidades em diversas áreas, desde o desenvolvimento web com JavaScript, HTML, CSS, Java e React até a exploração de tecnologias como Python, AWS e Spark.
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 Estudante de Sistemas de Informação
 - 🐍 Aprendendo e aplicando Python
 - ☁️ Conhecendo e trabalhando com AWS
 - 🚀 Experimentando com Apache Spark
-- 💼 Programador trainee na empresa Compass UOL
 
 ## 🛠️ Habilidades
 
